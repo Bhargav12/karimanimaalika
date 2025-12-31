@@ -13,15 +13,29 @@ The domain is well suited for:
 
 This is a premium, brandable domain with strong cultural recall and `.com` credibility.
 
-**Asking Price:** USD **149**  
+**Asking Price:** USD **199**  
 *Serious offers are welcome.*
 
 ---
 
+
+
 ## 📩 Contact the Owner
 
-If you are interested in acquiring this domain, please reach out directly:
+Use the form below to inquire about this domain or make an offer.
 
-**Email:** bhargava.ps@gmail.com
+<form action="https://formspree.io/f/xojqgojr" method="POST">
+  <p>
+    <input type="text" name="name" placeholder="Your Name" required>
+  </p>
+  <p>
+    <input type="email" name="email" placeholder="Your Email" required>
+  </p>
+  <p>
+    <textarea name="message" placeholder="Your message or offer" rows="5" required></textarea>
+  </p>
+  <p>
+    <button type="submit">Send Inquiry</button>
+  </p>
+</form>
 
-*Fast response guaranteed.*
