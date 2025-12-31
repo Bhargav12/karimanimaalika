@@ -8,11 +8,11 @@ Suitable for cultural, creative, or media-related projects.
 
 ## 💰 Domain for Sale
 
-**Buy Now Price:** USD 149  
+**Buy Now Price:** USD 199  
 *Reasonable offers are welcome.*
 
 ---
 
 ## 📩 Contact
 
-Email: your@email.com
+Email: bhargava.ps@gmail.com
